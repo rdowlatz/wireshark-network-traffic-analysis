@@ -94,7 +94,7 @@ The capture contains a TLS handshake initiated while visiting a normal HTTPS web
 http.request.method == "POST"
 ```
 
-![Plaintext HTTP credentials](screenshots/03-http-plaintext-credentials.png)
+![Plaintext HTTP credentials](screenshots/03-http-plaintext-credentials.jpg)
 
 An intentionally insecure login form was hosted locally at `127.0.0.1:8000`. The form was submitted using fake demonstration credentials:
 
